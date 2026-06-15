@@ -1,0 +1,32 @@
+# Environments
+.env
+.env.local
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Next.js
+.next/
+out/
+build/
+
+# Mac
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Ignore all markdown files except README.md
+*.md
+!README.md
